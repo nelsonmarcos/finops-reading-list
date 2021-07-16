@@ -12,4 +12,9 @@
 [FinOps: How Cloud Finance Management Can Save Your Cloud Programme From Extinction](https://www.contino.io/insights/finops-cloud-finance-management)<br><br>
 [What’s next for FinOps ?](https://medium.com/timspirit/whats-next-for-finops-2800a2286c9d)<br><br>
 [Cloud Cost Optimization at Scale: How we use Kubernetes and spot instances to reduce EC2 billing up to 80%](https://tuananh.net/2020/02/20/the-story-behind-my-talk-cloud-cost-optimization-at-scale/)<br><br>
-
+[Financial Accountability and Operational Efficiency by adopting Cloud FinOps](https://www.linkedin.com/pulse/shorticle-423-financial-accountability-operational-cloud-kasthuri)
+[Cloud Cost Management in Google Cloud Platform](https://www.linkedin.com/pulse/shorticle-426-cloud-cost-management-google-platform-kasthuri/)
+[Tools integration for Azure Cost Management Services](https://www.linkedin.com/pulse/shorticle-428-tools-integration-azure-cost-management-kasthuri)
+[Container Cost Management with Amazon EKS instances](https://www.linkedin.com/pulse/shorticle-430-container-cost-management-amazon-eks-kasthuri/)
+[How 5 companies got their developers to care about cloud costs](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html)
+[6 Ways Cloud Migration Costs Go Off the Rails](https://www.gartner.com/smarterwithgartner/6-ways-cloud-migration-costs-go-off-the-rails/)
